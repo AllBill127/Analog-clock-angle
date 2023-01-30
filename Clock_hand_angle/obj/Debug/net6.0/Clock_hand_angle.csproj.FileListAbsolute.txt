@@ -1,0 +1,15 @@
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\bin\Debug\net6.0\Clock_hand_angle.exe
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\bin\Debug\net6.0\Clock_hand_angle.deps.json
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\bin\Debug\net6.0\Clock_hand_angle.runtimeconfig.json
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\bin\Debug\net6.0\Clock_hand_angle.dll
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\bin\Debug\net6.0\Clock_hand_angle.pdb
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.csproj.AssemblyReference.cache
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.AssemblyInfoInputs.cache
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.AssemblyInfo.cs
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.dll
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\refint\Clock_hand_angle.dll
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.pdb
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\Clock_hand_angle.genruntimeconfig.cache
+C:\Users\Aleksandras\Desktop\ReizTech\Clock_hand_angle\obj\Debug\net6.0\ref\Clock_hand_angle.dll
