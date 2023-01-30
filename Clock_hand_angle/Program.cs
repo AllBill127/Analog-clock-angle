@@ -32,7 +32,20 @@ if (min < 0 || min >= 60)
     return -1;
 }
 
+double angle = ClockHandAngle(hour, min);
+
 // print out input
-Console.WriteLine("hour: " + hour + " min: " + min);
+Console.WriteLine("The lesser angle between " + hour + " hour hand and " + min + " minute hand is = " + angle + " degrees");
 
 return 0;
+
+
+// function to calculate the lesser angle between clock hands
+static double ClockHandAngle(int hour, int min)
+{
+    double angle = Math.Abs((hour * 30 + min * 0.5) - (min * 6));
+
+    if (angle < 180)
+        return angle;
+    return 360 - angle;
+}
